@@ -17,6 +17,7 @@ This project is to ascertain the various predictors which affects the traget cou
 
 ## Conclusions
 Following factors do affect the ride sharing capacity among customers extensively
+
 1- Temperature
 2- Workdays
 3.Summer seasons
@@ -25,25 +26,23 @@ Following factors do affect the ride sharing capacity among customers extensivel
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python - version 3.12.2
+Numpy Library - version 1.26.4
+Pandas library - version 2.2.2
+Seaborn Library - version 0.13.2
+Matplot Library - version 3.8.4
+skLearn Linrary - version 1.5.0
+statsmodels Library - version 0.14.2
+scipy Library - version 1.13.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Upgrad and IIT Bangalore
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@yasoobhaider] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
