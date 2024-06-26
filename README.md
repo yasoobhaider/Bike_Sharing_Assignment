@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Bike ride sharing linear regression model
 
 
 ## Table of Contents
@@ -11,18 +11,15 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This project is to ascertain the various predictors which affects the traget count of shared bike utilized by customers in market.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Following factors do affect the ride sharing capacity among customers extensively
+1- Temperature
+2- Workdays
+3.Summer seasons
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
